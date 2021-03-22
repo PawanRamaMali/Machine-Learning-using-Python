@@ -26,3 +26,15 @@ If the independent variables are highly correlated with each other than other va
 
 ### Underfitting and Overfitting: 
 If our algorithm works well with the training dataset but not well with test dataset, then such problem is called Overfitting. And if our algorithm does not perform well even with training dataset, then such problem is called underfitting.
+
+## Types of Regression
+There are various types of regressions which are used in data science and machine learning. Each type has its own importance on different scenarios, but at the core, all the regression methods analyze the effect of the independent variable on dependent variables. Here we are discussing some important types of regression which are given below:
+
+#### Linear Regression
+#### Logistic Regression
+#### Polynomial Regression
+#### Support Vector Regression
+#### Decision Tree Regression
+#### Random Forest Regression
+#### Ridge Regression
+#### Lasso Regression:
