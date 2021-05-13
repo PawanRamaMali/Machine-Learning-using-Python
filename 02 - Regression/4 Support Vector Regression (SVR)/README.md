@@ -1,2 +1,2 @@
 
-# Polynomial Regression
+# Support Vector Regression (SVR
